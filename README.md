@@ -16,6 +16,7 @@
 * [ag-grid](http://ag-grid.com/) - Serious data grid solution for Enterprise. It supports major javascript frameworks:  
 Angular 1, Angular2, Aurelia, React, VueJs, Web Components.  
 It has both free and commercial licences.  Free is limited on features.
+* [canvas-datagrid](https://github.com/TonyGermaneri/canvas-datagrid) - Canvas based data grid web component. Capable of displaying millions of contiguous hierarchical rows and columns without paging or loading, on a single canvas element. BSD Licensed.
 * [FancyGrid](http://www.fancygrid.com/) - JavaScript grid library with charts integration and server communication.  
 There is a big form module.  
 It supports major javascript frameworks:  
